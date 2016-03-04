@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[curl27fitness]]></title>
         <description><![CDATA[curl27fitness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/curl27fitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 14:52:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 13:01:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/curl27fitness/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3645fae9-b0bb-49aa-a6a6-0d0a10c10201.jpg">]]></description>
-            <link>undefined29e20bb4-c758-4e44-a0c8-a4fb1072856e/index.html</link>
+            <link>https://thegrid.ai/curl27fitness/29e20bb4-c758-4e44-a0c8-a4fb1072856e/index.html</link>
             <guid isPermaLink="false">29e20bb4-c758-4e44-a0c8-a4fb1072856e</guid>
-            <pubDate>Thu, 03 Mar 2016 14:51:36 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 13:01:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
